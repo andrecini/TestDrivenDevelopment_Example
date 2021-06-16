@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\TestDevelopmentDriver_Example\ClassSuite\bin\Debug\ClassSuite.dll
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\TestDevelopmentDriver_Example\ClassSuite\bin\Debug\ClassSuite.pdb
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\TestDevelopmentDriver_Example\ClassSuite\obj\Debug\ClassSuite.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\TestDevelopmentDriver_Example\ClassSuite\obj\Debug\ClassSuite.dll
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\TestDevelopmentDriver_Example\ClassSuite\obj\Debug\ClassSuite.pdb
