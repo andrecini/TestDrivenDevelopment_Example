@@ -3,3 +3,9 @@ C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\TestDevelopmentDriver_
 C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\TestDevelopmentDriver_Example\ClassSuite\obj\Debug\ClassSuite.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\TestDevelopmentDriver_Example\ClassSuite\obj\Debug\ClassSuite.dll
 C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\TestDevelopmentDriver_Example\ClassSuite\obj\Debug\ClassSuite.pdb
+C:\Users\alexandrehpc\Desktop\TDD\Program\TestDrivenDevelopment_Example\ClassSuite\bin\Debug\ClassSuite.dll
+C:\Users\alexandrehpc\Desktop\TDD\Program\TestDrivenDevelopment_Example\ClassSuite\bin\Debug\ClassSuite.pdb
+C:\Users\alexandrehpc\Desktop\TDD\Program\TestDrivenDevelopment_Example\ClassSuite\obj\Debug\ClassSuite.csprojAssemblyReference.cache
+C:\Users\alexandrehpc\Desktop\TDD\Program\TestDrivenDevelopment_Example\ClassSuite\obj\Debug\ClassSuite.csproj.CoreCompileInputs.cache
+C:\Users\alexandrehpc\Desktop\TDD\Program\TestDrivenDevelopment_Example\ClassSuite\obj\Debug\ClassSuite.dll
+C:\Users\alexandrehpc\Desktop\TDD\Program\TestDrivenDevelopment_Example\ClassSuite\obj\Debug\ClassSuite.pdb
